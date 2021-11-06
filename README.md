@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamed matola
 - 👀 I’m interested in ...Full Stack Web Development
-- 🌱 I’m currently learning ... JAvascript
+- 🌱 I’m currently learning ... JAvascript, react.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
